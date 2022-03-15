@@ -23,6 +23,10 @@
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
+       <td width="25%" align="center">
+        <span>Typescript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+      </td>
       <td width="25%" align="center">
         <span>React Native</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
