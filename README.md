@@ -35,14 +35,11 @@
 <br />
 
 
-<div align="center">
-    <div style='border-radius:5px'>
-<a href="https://www.linkedin.com/sarpkayature/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style='height:60px;width:160px'/>
-</a>
-       </div>
+<div align='center'>
     <a href="https://www.linkedin.com/sarpkayature/">
-    <img src="https://miro.medium.com/max/1400/1*jfdwtvU6V6g99q3G7gq7dQ.png" style='height:60px; width:160px; border-radius:30%;'/>
-</a>
-     
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style='height:60px;width:160px'/>
+    </a>
+    <a href="https://www.linkedin.com/sarpkayature/">
+    <img src="https://miro.medium.com/max/1400/1*jfdwtvU6V6g99q3G7gq7dQ.png" style='height:60px; width:160px;'/>
+    </a>
 </div>
