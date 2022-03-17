@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome stranger. I like to code in Javascript. :j <h2>
+<h2 align="center"> Welcome stranger, I like to code in Javascript <h2>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
