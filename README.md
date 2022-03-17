@@ -36,7 +36,7 @@
 
 
 <div align="center">
-    <div style='border-radius=5px'>
+    <div style='border-radius:5px'>
 <a href="https://www.linkedin.com/sarpkayature/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style='height:60px;width:160px'/>
 </a>
