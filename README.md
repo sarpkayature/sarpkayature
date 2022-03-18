@@ -40,10 +40,7 @@
 <br/>
 <br/>
 
-<h3 align="center"> Other Accounts 📫 </h3>
-
-<br />
-
+<h3 align="center" style="margin-bottom:1rem;"> Other Accounts 📫 </h3>
 
 <div align='center'>
     <a href="https://www.linkedin.com/sarpkayature/">
