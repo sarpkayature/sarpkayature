@@ -47,9 +47,9 @@
 
 <div align='center'>
     <a href="https://www.linkedin.com/sarpkayature/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style='height:40px;width:120px'/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" style='height:40px;width:120px'/>
     </a>
-    <a href="https://www.linkedin.com/sarpkayature/">
-    <img src="https://miro.medium.com/max/1400/1*jfdwtvU6V6g99q3G7gq7dQ.png" style='height:40px; width:80px;'/>
+    <a href="mailto:sarpkayature@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style='height:36px; width:120px;'/>
     </a>
 </div>
