@@ -49,7 +49,7 @@
     <a href="mailto:sarpkayature@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style='height:36px; width:120px;'/>
     </a>
-      <a href="www.twitter.com/sarpkayature">
+      <a href="https://twitter.com/sarpkayature">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" style='height:36px; width:120px;'/>
     </a>
 </div>
