@@ -52,4 +52,8 @@
       <a href="https://twitter.com/sarpkayature">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" style='height:36px; width:120px;'/>
     </a>
+      </a>
+      <a href="https://medium.com/@sarpkayature">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" style='height:36px; width:120px;'/>
+    </a>
 </div>
