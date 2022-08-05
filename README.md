@@ -32,7 +32,7 @@
 <br/>
 
 <div align='center'>
-<a href="https://github.com/sarpkaya93">
+<a href="https://github.com/sarpkayature">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarpkaya93&theme=radical" style='width:400px' />
 </a>
 </div>
